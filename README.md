@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan-devops-git&label=Profile%20views&color=0e75b6&style=flat" alt="charan-devops-git" /> </p>
 
-- 🌱 I’m currently learning **AWS DevOps**
+- 🔭 I’m currently working on **DevOps Projects**
+  
+- 🌱 I’m currently learning **AWS DevOps, Prompt Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Charan-DevOps-Git?tab=repositories](https://github.com/Charan-DevOps-Git?tab=repositories)
 
